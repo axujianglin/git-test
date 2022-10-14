@@ -11,5 +11,6 @@ public class GitTet {
         System.out.println("hello git6 push");
         System.out.println("hello git6 pull");
         System.out.println("hello git6 pull2");
+        System.out.println("hello git6 pull3");
     }
 }
