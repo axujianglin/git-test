@@ -9,5 +9,6 @@ public class GitTet {
         System.out.println("hello git5 master");
         System.out.println("hello git5 hot-fix");
         System.out.println("hello git6 push");
+        System.out.println("hello git6 pull");
     }
 }
